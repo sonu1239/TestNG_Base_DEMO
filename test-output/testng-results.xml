@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T09:08:02 IST" name="Default suite" finished-at="2022-08-25T09:08:02 IST" duration-ms="523">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T09:08:02 IST" name="Default test" finished-at="2022-08-25T09:08:02 IST" duration-ms="523">
+      <class name="TestNGBase.TestngPriority">
+        <test-method signature="e_method()[pri:0, instance:TestNGBase.TestngPriority@696da30b]" started-at="2022-08-25T09:08:02 IST" name="e_method" finished-at="2022-08-25T09:08:02 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_method -->
+        <test-method signature="a_method()[pri:1, instance:TestNGBase.TestngPriority@696da30b]" started-at="2022-08-25T09:08:02 IST" name="a_method" finished-at="2022-08-25T09:08:02 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+        <test-method signature="d_method()[pri:3, instance:TestNGBase.TestngPriority@696da30b]" started-at="2022-08-25T09:08:02 IST" name="d_method" finished-at="2022-08-25T09:08:02 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+        <test-method signature="c_method()[pri:6, instance:TestNGBase.TestngPriority@696da30b]" started-at="2022-08-25T09:08:02 IST" name="c_method" finished-at="2022-08-25T09:08:02 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method signature="b_method()[pri:9, instance:TestNGBase.TestngPriority@696da30b]" started-at="2022-08-25T09:08:02 IST" name="b_method" finished-at="2022-08-25T09:08:02 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+      </class> <!-- TestNGBase.TestngPriority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
